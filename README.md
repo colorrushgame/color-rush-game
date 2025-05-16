@@ -1,10 +1,9 @@
-<img src="https://azgames.io/upload/imgs/colorrush2.png" alt="Color " width="150">
-<p><strong>Play Here</strong>: <a href="https://colorrush.org">https://colorrush.org</a><br>
-
   <p> Ready for a game where your reflexes, timing, and instincts are pushed to the limit? <strong>Color Rush</strong> is not just about running – it’s about keeping pace with change. Jump in and discover how far your skills can take you. <strong>Play Color Rush now</strong> and feel the thrill build up with every step.</p>
 
+<p><strong>Play Here</strong>: <a href="https://colorrush.org">https://colorrush.org</a><br>
+
   <h3>A Fast-Paced World Where Colors Decide Your Fate</h3>
-  <p>In <strong>Color Rush</strong>, your character runs forward automatically, and your mission is to survive an ever-changing trail of platforms. Sounds simple? Think again. Only by matching your character’s color with the ground can you safely land and continue. Miss it, and it’s game over. The pressure never stops building, making every second on the track count.</p>
+  <p>In <strong><a href="https://colorrush.org">Color Rush</a></strong>, your character runs forward automatically, and your mission is to survive an ever-changing trail of platforms. Sounds simple? Think again. Only by matching your character’s color with the ground can you safely land and continue. Miss it, and it’s game over. The pressure never stops building, making every second on the track count.</p>
 
   <h3>Think Fast, Move Faster</h3>
   <p>Each level in <strong>Color Rush</strong> introduces new obstacles, color patterns, and split-second decisions. You'll need to adapt quickly to gaps, traps, and shifting colors underfoot. Whether you're leaping over wide pits or reacting to sudden switches in terrain, the action never slows.</p>
@@ -14,6 +13,8 @@
 
   <h3>Complete More Than Just the Level</h3>
   <p>Each level contains three unique goals beyond just reaching the finish line. From collecting special items to executing flawless runs, these challenges offer a reason to return and improve your performance. Chase perfection and unlock more achievements as you progress.</p>
+
+  <img src="https://azgames.io/upload/imgs/colorrush2.png" alt="Color " width="512">
 
   <h3>Simple Controls, Intense Action</h3>
   <p>You’ll only need two buttons to control your character, but don’t let the simplicity fool you. Timing is everything.</p>
